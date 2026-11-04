@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+da01,Deep Chamber,pack-local equal-tempered pitch collection,A,68,4/4,480,32,61440,midi/da01-deep-chamber/da01-deep-chamber-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+da02,Distant Floor,pack-local equal-tempered pitch collection,C,68,4/4,480,32,61440,midi/da02-distant-floor/da02-distant-floor-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+da03,Cold Passage,pack-local equal-tempered pitch collection,D#,68,4/4,480,32,61440,midi/da03-cold-passage/da03-cold-passage-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+da04,Fading Door,pack-local equal-tempered pitch collection,A#,68,4/4,480,32,61440,midi/da04-fading-door/da04-fading-door-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
