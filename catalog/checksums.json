@@ -7,6 +7,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3145,
+      "sha256": "afc4c006227338915d643b1e2729711a1b1ad1bf5af88fc52a8fad5cc37a6934"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -38,8 +48,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1574,
-      "sha256": "c79b97c3474fb42da3d3927d31dd9ff61aed0f956266fc169793d0464c214aa4"
+      "bytes": 1796,
+      "sha256": "9ffdd6413d243150cf4e8aaad9dc8a2f969a7068fd98700d470f4ad8a45efb46"
     },
     {
       "path": "catalog/release-spec.json",
@@ -73,8 +83,8 @@
     },
     {
       "path": "downloads/dark-ambient-midi.zip",
-      "bytes": 15354,
-      "sha256": "ab20f73db5c531347863ee7bf13c5ec5a830f3635f430e24cbff9f4a021d18a0"
+      "bytes": 15556,
+      "sha256": "04beaaba84149410c13247d70547ba4f3fcc6b6982604e0c09e1e349b366d270"
     },
     {
       "path": "index.html",
@@ -228,13 +238,8 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1045,
-      "sha256": "789ca138a2daaf470ae92b688e7a1a26814b0d403b1ed8c726728a898b087519"
-    },
-    {
-      "path": "README.md",
-      "bytes": 2984,
-      "sha256": "e939eaa70eddd2401c5612d8d991c0fdb10c3e3bf90d131a0c005269080ee6d3"
+      "bytes": 1128,
+      "sha256": "3658233b984713ef7ecdf7072209aa81373de5e3d6a7aed7757e36dab66e17c4"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -248,13 +253,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 54866,
-      "sha256": "06196196b6f5a4f8deb83b945619c6d8847d2439cac8636d376195b28ebe792f"
+      "bytes": 55043,
+      "sha256": "bf66b15904a8ffe6d9106669edd6670cc41fa3640db30691cf431832fe1f8772"
     },
     {
       "path": "tools/validate_release.py",
